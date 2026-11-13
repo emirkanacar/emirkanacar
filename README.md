@@ -1,29 +1,81 @@
-<h1 align="center">Hi 👋, I'm Emirkan</h1>
-<h3 align="center">A passionate Full-Stack Developer in Turkey</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emirkanacar&label=Profile%20views&color=0e75b6&style=flat" alt="emirkanacar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emirkanacar" alt="emirkanacar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/emirkanacar" target="blank"><img src="https://img.shields.io/twitter/follow/emirkanacar?logo=twitter&style=for-the-badge" alt="emirkanacar" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://emirkan.dev](https://emirkan.dev)
-
-- 📝 I regularly write articles on [https://emirkan.dev/blog](https://emirkan.dev/blog)
-
-- 💬 Ask me about **react, flutter**
-
-- 📄 Know about my experiences [https://emirkan.dev/resume](https://emirkan.dev/resume)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/emirkanacar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emirkanacar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/emirkan-a-1965ab213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emirkan-a-1965ab213" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Emirkan%20Acar&fontSize=44&fontColor=ffffff&fontAlignY=38" alt="Emirkan Acar" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=13B9FD&center=true&vCenter=true&width=620&lines=Building+secure+banking+apps+with+Flutter;KYC+%E2%80%A2+Payments+%E2%80%A2+Open+Banking;Native+bridges+in+Swift+%26+Kotlin;CI%2FCD+with+Fastlane+%26+Azure+DevOps" alt="Typing SVG" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirkanacar&show_icons=true&locale=en&layout=compact" alt="emirkanacar" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/emirkanacar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://emirkan.dev"><img src="https://img.shields.io/badge/emirkan.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://emirkan.dev/blog"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+  <a href="mailto:emirkanacar@outlook.com.tr"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emirkanacar&show_icons=true&locale=en" alt="emirkanacar" /></p>
+---
+
+### 👋 About me
+
+I'm a **Flutter developer** based in Istanbul with **4+ years** of experience, focused on **banking and fintech** mobile apps.
+
+- 🏦 Building production **Flutter banking apps** for iOS & Android
+- 🪪 Integrating **KYC & identity verification** SDKs through platform channels
+- 🔌 Writing **native bridges** in Swift / Objective-C and Kotlin when Flutter alone isn't enough
+- 🚀 Shipping with **CI/CD** — Fastlane, Azure DevOps and flavor-based environments
+- 💬 Ask me about **Flutter architecture, BLoC / Riverpod, KYC flows, Open Banking**
+
+### 🛠️ Tech stack
+
+**Mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,firebase,androidstudio&theme=dark" alt="Mobile stack" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Riverpod-0553B1?style=flat-square&logo=flutter&logoColor=white" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/Platform%20Channels-13B9FD?style=flat-square&logo=flutter&logoColor=white" alt="Platform Channels" />
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black" alt="Fastlane" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+</p>
+
+**Web & Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,tailwind,go,nodejs,mongodb,git,figma&theme=dark" alt="Web stack" />
+</p>
+
+### 💼 What I build
+
+| Area | What I do |
+|---|---|
+| 🏦 **Mobile banking** | End-to-end Flutter banking apps with stateful architecture for onboarding, account and transaction flows |
+| 🪪 **Digital onboarding & KYC** | Identity verification SDK integrations via method channels, with seamless native view compatibility |
+| 🔐 **Security & auth** | Biometric authentication, secure session handling and deep linking for critical flows |
+| 💳 **Payments & finance** | In-app payment integrations, transaction tracking and financial reporting modules |
+| 📄 **Document digitization** | OCR-based capture and digital management of financial documents such as cheques |
+| 🌐 **Open Banking** | UI sandboxes and flows for Open Banking APIs — account information consent and retrieval |
+| ⚙️ **Delivery** | CI/CD with Fastlane & Azure DevOps, flavor-based environments, pixel-perfect Figma implementation, startup performance tuning |
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=emirkanacar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emirkanacar&theme=tokyonight" alt="GitHub stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emirkanacar&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emirkanacar&label=Profile%20views&color=02569B&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:02569B&height=100&section=footer" alt="footer" />
+</p>
