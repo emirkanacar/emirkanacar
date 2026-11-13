@@ -25,6 +25,7 @@ I'm a **Flutter developer** based in Istanbul with **4+ years** of experience, f
 - 🪪 Integrating **KYC & identity verification** SDKs through platform channels
 - 🔌 Writing **native bridges** in Swift / Objective-C and Kotlin when Flutter alone isn't enough
 - 🚀 Shipping with **CI/CD** — Fastlane, Azure DevOps and flavor-based environments
+- 🧩 Maintaining **[flutter_inappwebview_forge](https://github.com/emirkanacar/flutter_inappwebview)**, a community fork of a widely used Flutter WebView plugin
 - 💬 Ask me about **Flutter architecture, BLoC / Riverpod, KYC flows, Open Banking**
 
 ### 🛠️ Tech stack
@@ -60,6 +61,21 @@ I'm a **Flutter developer** based in Istanbul with **4+ years** of experience, f
 | 📄 **Document digitization** | OCR-based capture and digital management of financial documents such as cheques |
 | 🌐 **Open Banking** | UI sandboxes and flows for Open Banking APIs — account information consent and retrieval |
 | ⚙️ **Delivery** | CI/CD with Fastlane & Azure DevOps, flavor-based environments, pixel-perfect Figma implementation, startup performance tuning |
+
+### 🧩 Open source
+
+<a href="https://github.com/emirkanacar/flutter_inappwebview"><b>flutter_inappwebview_forge</b></a> &nbsp;
+<a href="https://pub.dev/packages/flutter_inappwebview_forge"><img src="https://img.shields.io/pub/v/flutter_inappwebview_forge?label=pub.dev&logo=dart&logoColor=white&color=02569B&style=flat-square" alt="pub.dev" /></a>
+<a href="https://github.com/emirkanacar/flutter_inappwebview"><img src="https://img.shields.io/github/stars/emirkanacar/flutter_inappwebview?style=flat-square&logo=github&color=13B9FD" alt="GitHub stars" /></a>
+<img src="https://img.shields.io/badge/license-Apache%202.0-555?style=flat-square" alt="License" />
+
+The original `flutter_inappwebview` plugin is one of the most widely used WebView packages in the Flutter ecosystem, but it stopped receiving active development — so I forked it and took over maintenance.
+
+- 🔄 **Drop-in replacement** — same Dart API (`InAppWebView`, `InAppWebViewController`, settings, callbacks); migrating means changing one package name
+- 🖥️ **Six platforms, one API** — Android WebView, iOS/macOS WKWebView, Windows WebView2, Linux WPE WebKit and Web
+- ⚡ **`InAppWebViewPreloader`** — opt-in prewarming that starts a page before the route opens and reuses the same native WebView
+- 🛡️ **Safer lifecycle** — idempotent keep-alive, headless transfer and disposal paths, plus runtime checks so unsupported features fail safely
+- 📦 Owning native implementations, platform packages and the release process on pub.dev
 
 ### 📊 GitHub stats
 
