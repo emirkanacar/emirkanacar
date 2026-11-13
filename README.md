@@ -26,7 +26,7 @@ I'm a **Flutter developer** based in Istanbul with **4+ years** of experience, f
 - 🔌 Writing **native bridges** in Swift / Objective-C and Kotlin when Flutter alone isn't enough
 - 🚀 Shipping with **CI/CD** — Fastlane, Azure DevOps and flavor-based environments
 - 🧩 Maintaining **[flutter_inappwebview_forge](https://github.com/emirkanacar/flutter_inappwebview)**, a community fork of a widely used Flutter WebView plugin
-- 💬 Ask me about **Flutter architecture, BLoC / Riverpod, KYC flows, Open Banking**
+- 💬 Ask me about **Flutter architecture, BLoC / Riverpod / Provider, KYC flows, Open Banking**
 
 ### 🛠️ Tech stack
 
@@ -39,6 +39,7 @@ I'm a **Flutter developer** based in Istanbul with **4+ years** of experience, f
 <p>
   <img src="https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white" alt="BLoC" />
   <img src="https://img.shields.io/badge/Riverpod-0553B1?style=flat-square&logo=flutter&logoColor=white" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/Provider-1E88E5?style=flat-square&logo=flutter&logoColor=white" alt="Provider" />
   <img src="https://img.shields.io/badge/Platform%20Channels-13B9FD?style=flat-square&logo=flutter&logoColor=white" alt="Platform Channels" />
   <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black" alt="Fastlane" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
